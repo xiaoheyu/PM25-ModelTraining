@@ -1,5 +1,6 @@
 # Project Overview 
-#### Please cite and refer to the paper for details.
+#### Please cite and refer to the following paper for details.
+## PM2.5 Modeling and Historical Reconstruction over the Continental USA Utilizing GOES-16 AOD https://doi.org/10.3390/rs13234788 
 #### There are 4 stages for the entire project.
 #### Stage 1 (Code available in repo PM25-DataSource): Data download and visulization, including ECMWF, PBLH, GOES16-AOD, Landcover, Soil order, Population density, Elevation, and Lithology.
 #### Stage 2 (Code available in repo PM25-DataMaching): Once data are downloaded, all variables will be macthed with PM2.5 groupd observation. A macthed data table is generated for machine learning model training.
