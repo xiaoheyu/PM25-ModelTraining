@@ -7,6 +7,6 @@
 #### Stage 3 (Code available in repo PM25-ModelTraining): Machine learning moldeing training
 #### Stage 4 (Code available in repo PM25-Estimation-Reconstrcution or PM25-Estimation-Reconstrcution-Local ): Once model and data are ready, this code make pm25 estimations and generate visulization results.
 
-# Stage 3 PM25-ModelTraining
+# Stage 3: PM25-ModelTraining
 Code in this repo establishes machine learning model for pm2.5 estiamtion, including data pre-processing, model training, hyper-parameter optimization and result visulizaiton.
 Datatable generated from Stage 2 is requred to run this code. 
